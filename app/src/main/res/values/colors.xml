@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#111111</color>
+
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#29C1BB</color>
+    <color name="colorPrimary">#29C1BB</color>
+    <color name="colorGray">#adb5bd</color>
+
+    <color name="민트색깔">#29c1bb</color>
+    
+    <drawable name="colorCommentPrimary">#FFFFFF</drawable>
+    <drawable name="colorCommentAccent">#3329c1bb</drawable>
+</resources>
