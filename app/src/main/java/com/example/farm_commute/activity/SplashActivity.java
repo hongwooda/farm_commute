@@ -32,6 +32,7 @@ public class SplashActivity extends CommonActivity {
     String companyID="";
     String password="";
 
+    
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
